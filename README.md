@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-   <img src="[https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)" title="Android Studio" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Android Studio" alt="C++" width="40" height="40"/>&nbsp;
+  
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
