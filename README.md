@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Android+Developer)](https://git.io/typing-svg)
-<iframe src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
+
