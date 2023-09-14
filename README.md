@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="200"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :icons/androidstudio/androidstudio-original-wordmark.svg
+### :hammer_and_wrench: Languages and Tools :[icons/androidstudio/androidstudio-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg)https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg
