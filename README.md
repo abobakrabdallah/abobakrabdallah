@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Android+Developer)](https://git.io/typing-svg)
 
-<!--<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>-->
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
+</div>
